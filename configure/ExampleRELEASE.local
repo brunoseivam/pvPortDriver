@@ -1,0 +1,9 @@
+EPICS4_DIR=/home/epicsv4/master
+
+PVACCESS=${EPICS4_DIR}/pvAccessCPP
+PVDATA=${EPICS4_DIR}/pvDataCPP
+PVDATABASE=${EPICS4_DIR}/pvDatabaseCPP
+NORMATIVETYPES=${EPICS4_DIR}/normativeTypesCPP
+
+TEMPLATE_TOP=$(EPICS_BASE)/templates/makeBaseApp/top
+EPICS_BASE=/home/install/epics/base
