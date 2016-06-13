@@ -9,9 +9,6 @@
 namespace epics { namespace pvPortDriver {
 
 template<typename T>
-class ScalarParam;
-
-template<typename T>
 class epicsShareClass ScalarParam : public epics::pvDatabase::PVRecord
 {
 private:

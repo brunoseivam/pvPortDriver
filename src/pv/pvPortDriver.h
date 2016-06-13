@@ -1,13 +1,3 @@
-/* pvPortDriver.h */
-/**
- * Copyright - See the COPYRIGHT that is included with this distribution.
- * EPICS pvData is distributed subject to a Software License Agreement found
- * in file LICENSE that is included with this distribution.
- */
-/**
- * @author Bruno Martins
- * @date 2016.03.24
- */
 #ifndef PVPORTDRIVER_H
 #define PVPORTDRIVER_H
 
